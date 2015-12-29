@@ -22,6 +22,8 @@
 
 #import <Foundation/Foundation.h>
 
+#import "DiffMatchPatchCFUtilities.h"
+
 /*
  * Functions for diff, match and patch.
  * Computes the difference between two texts to create a patch.
